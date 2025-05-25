@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Олег, ну это фиаско, ты пришёл не к тому</title>
+    <title>Может лучше разобрать коробку:))</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -30,5 +31,6 @@
 </head>
 <body>
     <h1>Олег, ну это фиаско, ты пришёл не к тому.</h1>
+    <h1>Может лучше разобрать коробку:))</h1>
 </body>
 </html>
