@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ты пришёл не туда</title>
+    <title>Олег, ну это фиаско, ты пришёл не к тому</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -29,6 +29,6 @@
     </style>
 </head>
 <body>
-    <h1>Ты пришёл не туда.</h1>
+    <h1>Олег, ну это фиаско, ты пришёл не к тому.</h1>
 </body>
 </html>
